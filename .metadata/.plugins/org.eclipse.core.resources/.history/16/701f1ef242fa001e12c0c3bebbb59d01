@@ -1,0 +1,5 @@
+package com.SpringBoot.SpringMVCSecurity.controller;
+
+public class DemoSecurityController {
+
+}
